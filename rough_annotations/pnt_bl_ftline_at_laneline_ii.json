@@ -1,0 +1,1322 @@
+[
+    {
+        "image_name": "ATLvBOS_16-11-2022_PGM_ESP_180381.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1048.3604145770644,
+        "y_pixel": 783.7512437810946
+    },
+    {
+        "image_name": "ATLvBOS_16-11-2022_PGM_ESP_271129.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ATLvBOS_16-11-2022_PGM_ESP_426755.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ATLvBOS_16-11-2022_PGM_ESP_525273.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1293.4483450351054,
+        "y_pixel": 861.2913211719182
+    },
+    {
+        "image_name": "ATLvSAC_23-11-2022_PGM_BAL_146878.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ATLvSAC_23-11-2022_PGM_BAL_249829.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 913.6262119692411,
+        "y_pixel": 697.860696517413
+    },
+    {
+        "image_name": "ATLvSAC_23-11-2022_PGM_BAL_426821.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 778.8920093614175,
+        "y_pixel": 757.5069098949696
+    },
+    {
+        "image_name": "ATLvSAC_23-11-2022_PGM_BAL_520182.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 279.73386827148113,
+        "y_pixel": 882.7639579878387
+    },
+    {
+        "image_name": "BKNvMEM_20-11-2022_PGM_YES_153449.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 133.4510197258442,
+        "y_pixel": 727.6838032061913
+    },
+    {
+        "image_name": "BKNvMEM_20-11-2022_PGM_YES_266201.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BKNvMEM_20-11-2022_PGM_YES_435303.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BKNvMEM_20-11-2022_PGM_YES_519359.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BKNvTOR_21-10-2022_PGM_YES_162381.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BKNvTOR_21-10-2022_PGM_YES_258767.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BKNvTOR_21-10-2022_PGM_YES_419131.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1112.519558676028,
+        "y_pixel": 835.0469872857933
+    },
+    {
+        "image_name": "BKNvTOR_21-10-2022_PGM_YES_541245.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 709.6001337345369,
+        "y_pixel": 657.3012714206744
+    },
+    {
+        "image_name": "BOSvDAL_23-11-2022_PGM_ESP_164200.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 452.9635573386827,
+        "y_pixel": 685.9314538419015
+    },
+    {
+        "image_name": "BOSvDAL_23-11-2022_PGM_ESP_279972.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BOSvDAL_23-11-2022_PGM_ESP_424623.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "BOSvDAL_23-11-2022_PGM_ESP_534662.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHAvIND_16-11-2022_PGM_BAL_145515.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 83.40688732865263,
+        "y_pixel": 626.285240464345
+    },
+    {
+        "image_name": "CHAvIND_16-11-2022_PGM_BAL_258422.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHAvIND_16-11-2022_PGM_BAL_422838.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 826.3697759946507,
+        "y_pixel": 800.4521835268104
+    },
+    {
+        "image_name": "CHAvIND_16-11-2022_PGM_BAL_522257.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 156.54831160147108,
+        "y_pixel": 741.9988944168049
+    },
+    {
+        "image_name": "CHAvNYK_09-12-2022_PGM_BAL_145782.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHAvNYK_09-12-2022_PGM_BAL_246354.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1198.4928117686393,
+        "y_pixel": 944.7960199004975
+    },
+    {
+        "image_name": "CHAvNYK_09-12-2022_PGM_BAL_408619.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHAvNYK_09-12-2022_PGM_BAL_524448.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHIvDEN_13-11-2022_PGM_NBC_145639.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CHIvDEN_13-11-2022_PGM_NBC_248830.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 204.02607823470413,
+        "y_pixel": 639.4074074074074
+    },
+    {
+        "image_name": "CHIvDEN_13-11-2022_PGM_NBC_394268.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 830.2193246405884,
+        "y_pixel": 614.3559977888335
+    },
+    {
+        "image_name": "CHIvDEN_13-11-2022_PGM_NBC_523218.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvCHA_18-11-2022_PGM_BAL_153471.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvCHA_18-11-2022_PGM_BAL_251987.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 818.6706787027749,
+        "y_pixel": 951.9535655058042
+    },
+    {
+        "image_name": "CLEvCHA_18-11-2022_PGM_BAL_409768.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 672.3878301571381,
+        "y_pixel": 713.3687119955777
+    },
+    {
+        "image_name": "CLEvCHA_18-11-2022_PGM_BAL_534696.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvMEM_02-02-2023_PGM_TNT_170791.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvMEM_02-02-2023_PGM_TNT_283337.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvMEM_02-02-2023_PGM_TNT_454211.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "CLEvMEM_02-02-2023_PGM_TNT_589425.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 384.95486459378134,
+        "y_pixel": 635.828634604754
+    },
+    {
+        "image_name": "DALvPOR_12-11-2022_PGM_BAL_148713.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DALvPOR_12-11-2022_PGM_BAL_251323.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DALvPOR_12-11-2022_PGM_BAL_411433.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DALvPOR_12-11-2022_PGM_BAL_521403.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DALvWAS_24-01-2023_PGM_BAL_146268.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 708.3169508525576,
+        "y_pixel": 784.9441680486457
+    },
+    {
+        "image_name": "DALvWAS_24-01-2023_PGM_BAL_248788.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DALvWAS_24-01-2023_PGM_BAL_409222.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 116.76964226011367,
+        "y_pixel": 720.5262576008844
+    },
+    {
+        "image_name": "DALvWAS_24-01-2023_PGM_BAL_529887.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DENvDET_22-11-2022_PGM_ALT_157313.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1088.1390839184219,
+        "y_pixel": 604.8126036484246
+    },
+    {
+        "image_name": "DENvDET_22-11-2022_PGM_ALT_267278.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DENvDET_22-11-2022_PGM_ALT_433681.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 252.7870277499164,
+        "y_pixel": 648.9508015478165
+    },
+    {
+        "image_name": "DENvDET_22-11-2022_PGM_ALT_554284.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 944.4226011367435,
+        "y_pixel": 793.2946379215035
+    },
+    {
+        "image_name": "DENvOKC_22-10-2022_PGM_ALT_166001.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 5.132731527917084,
+        "y_pixel": 654.9154228855722
+    },
+    {
+        "image_name": "DENvOKC_22-10-2022_PGM_ALT_278704.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 780.1751922433969,
+        "y_pixel": 728.8767274737424
+    },
+    {
+        "image_name": "DENvOKC_22-10-2022_PGM_ALT_415086.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1093.271815446339,
+        "y_pixel": 818.3460475400774
+    },
+    {
+        "image_name": "DENvOKC_22-10-2022_PGM_ALT_567945.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 400.3530591775326,
+        "y_pixel": 708.5970149253732
+    },
+    {
+        "image_name": "DENvPHX_11-01-2023_PGM_ESP_147715.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DENvPHX_11-01-2023_PGM_ESP_256315.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DENvPHX_11-01-2023_PGM_ESP_407550.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DENvPHX_11-01-2023_PGM_ESP_551784.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 128.31828819792713,
+        "y_pixel": 706.2111663902709
+    },
+    {
+        "image_name": "DETvBOS_12-11-2022_PGM_BAL_149300.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvBOS_12-11-2022_PGM_BAL_254088.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvBOS_12-11-2022_PGM_BAL_417271.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvBOS_12-11-2022_PGM_BAL_517482.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 474.77766633233034,
+        "y_pixel": 616.7418463239359
+    },
+    {
+        "image_name": "DETvGSW_30-10-2022_PGM_BAL_147074.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 527.3881644934804,
+        "y_pixel": 646.5649530127142
+    },
+    {
+        "image_name": "DETvGSW_30-10-2022_PGM_BAL_264633.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 11.54864593781344,
+        "y_pixel": 699.0536207849641
+    },
+    {
+        "image_name": "DETvGSW_30-10-2022_PGM_BAL_442426.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvGSW_30-10-2022_PGM_BAL_554511.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 501.7245068538951,
+        "y_pixel": 677.5809839690437
+    },
+    {
+        "image_name": "DETvLAC_26-12-2022_PGM_BAL_148774.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvLAC_26-12-2022_PGM_BAL_268738.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvLAC_26-12-2022_PGM_BAL_394032.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 16.681377465730524,
+        "y_pixel": 688.3173023770039
+    },
+    {
+        "image_name": "DETvLAC_26-12-2022_PGM_BAL_543368.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 206.59244399866267,
+        "y_pixel": 700.2465450525152
+    },
+    {
+        "image_name": "DETvTOR_14-11-2022_PGM_BAL_153635.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvTOR_14-11-2022_PGM_BAL_276917.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "DETvTOR_14-11-2022_PGM_BAL_465239.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 572.299565362755,
+        "y_pixel": 702.6323935876175
+    },
+    {
+        "image_name": "DETvTOR_14-11-2022_PGM_BAL_579538.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 370.8398528920094,
+        "y_pixel": 706.2111663902709
+    },
+    {
+        "image_name": "GSWvCLE_11-11-2022_PGM_NBC_146346.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 87.25643597459043,
+        "y_pixel": 684.7385295743504
+    },
+    {
+        "image_name": "GSWvCLE_11-11-2022_PGM_NBC_257479.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "GSWvCLE_11-11-2022_PGM_NBC_406741.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "GSWvCLE_11-11-2022_PGM_NBC_533525.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "GSWvPOR_30-12-2022_PGM_NBC_166169.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 624.910063523905,
+        "y_pixel": 606.0055279159757
+    },
+    {
+        "image_name": "GSWvPOR_30-12-2022_PGM_NBC_250867.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1326.8110999665662,
+        "y_pixel": 764.6644555002764
+    },
+    {
+        "image_name": "GSWvPOR_30-12-2022_PGM_NBC_413769.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 665.9719157472417,
+        "y_pixel": 571.4107241569928
+    },
+    {
+        "image_name": "GSWvPOR_30-12-2022_PGM_NBC_525035.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "HOUvLAC_14-11-2022_PGM_ATT_150041.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 159.11467736542963,
+        "y_pixel": 674.0022111663903
+    },
+    {
+        "image_name": "HOUvLAC_14-11-2022_PGM_ATT_241680.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1047.0772316950852,
+        "y_pixel": 697.860696517413
+    },
+    {
+        "image_name": "HOUvLAC_14-11-2022_PGM_ATT_413790.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "HOUvLAC_14-11-2022_PGM_ATT_541134.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1266.5015045135406,
+        "y_pixel": 827.8894416804864
+    },
+    {
+        "image_name": "HOUvMIA_15-12-2022_PGM_ATT_149578.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 763.4938147776663,
+        "y_pixel": 737.2271973466003
+    },
+    {
+        "image_name": "HOUvMIA_15-12-2022_PGM_ATT_245190.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "HOUvMIA_15-12-2022_PGM_ATT_392481.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 528.6713473754597,
+        "y_pixel": 551.1310116086236
+    },
+    {
+        "image_name": "HOUvMIA_15-12-2022_PGM_ATT_506690.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "INDvLAL_02-02-2023_PGM_SPE_156221.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 790.440655299231,
+        "y_pixel": 675.1951354339415
+    },
+    {
+        "image_name": "INDvLAL_02-02-2023_PGM_SPE_255909.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 343.8930123704447,
+        "y_pixel": 848.1691542288557
+    },
+    {
+        "image_name": "INDvLAL_02-02-2023_PGM_SPE_390413.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 977.7853560682046,
+        "y_pixel": 836.2399115533444
+    },
+    {
+        "image_name": "INDvLAL_02-02-2023_PGM_SPE_504501.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "LACvBKN_12-11-2022_PGM_BAL_152107.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "LACvBKN_12-11-2022_PGM_BAL_266528.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "LACvBKN_12-11-2022_PGM_BAL_421940.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "LACvBKN_12-11-2022_PGM_BAL_541350.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 902.0775660314276,
+        "y_pixel": 801.6451077943615
+    },
+    {
+        "image_name": "LACvUTA_21-11-2022_PGM_BAL_150157.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 302.831160147108,
+        "y_pixel": 731.2625760088447
+    },
+    {
+        "image_name": "LACvUTA_21-11-2022_PGM_BAL_246995.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 206.59244399866267,
+        "y_pixel": 687.1243781094528
+    },
+    {
+        "image_name": "LACvUTA_21-11-2022_PGM_BAL_392986.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 26.946840521564695,
+        "y_pixel": 728.8767274737424
+    },
+    {
+        "image_name": "LACvUTA_21-11-2022_PGM_BAL_550013.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "LALvPOR_30-11-2022_PGM_SPE_146568.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 252.7870277499164,
+        "y_pixel": 625.0923161967938
+    },
+    {
+        "image_name": "LALvPOR_30-11-2022_PGM_SPE_249853.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 672.3878301571381,
+        "y_pixel": 656.1083471531233
+    },
+    {
+        "image_name": "LALvPOR_30-11-2022_PGM_SPE_399158.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1099.6877298562354,
+        "y_pixel": 715.7545605306799
+    },
+    {
+        "image_name": "LALvPOR_30-11-2022_PGM_SPE_506237.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 885.3961885656971,
+        "y_pixel": 662.0729684908789
+    },
+    {
+        "image_name": "MEMvPHX_16-01-2023_PGM_TNT_175993.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 640.3082581076562,
+        "y_pixel": 720.5262576008844
+    },
+    {
+        "image_name": "MEMvPHX_16-01-2023_PGM_TNT_427029.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MEMvPHX_16-01-2023_PGM_TNT_550685.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvCHA_12-11-2022_PGM_BAL_186004.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvCHA_12-11-2022_PGM_BAL_251255.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvCHA_12-11-2022_PGM_BAL_420107.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1322.9615513206286,
+        "y_pixel": 930.4809286898839
+    },
+    {
+        "image_name": "MIAvCHA_12-11-2022_PGM_BAL_513986.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvDEN_13-02-2023_PGM_BAL_160599.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvDEN_13-02-2023_PGM_BAL_248203.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 517.1227014376462,
+        "y_pixel": 759.8927584300719
+    },
+    {
+        "image_name": "MIAvDEN_13-02-2023_PGM_BAL_392710.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvDEN_13-02-2023_PGM_BAL_481006.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvPHX_14-11-2022_PGM_BAL_152842.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvPHX_14-11-2022_PGM_BAL_241763.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MIAvPHX_14-11-2022_PGM_BAL_383962.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1039.3781344032097,
+        "y_pixel": 830.2752902155888
+    },
+    {
+        "image_name": "MIAvPHX_14-11-2022_PGM_BAL_500835.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvATL_14-11-2022_PGM_BAL_147502.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvATL_14-11-2022_PGM_BAL_245332.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvATL_14-11-2022_PGM_BAL_412915.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 762.210631895687,
+        "y_pixel": 664.4588170259811
+    },
+    {
+        "image_name": "MILvATL_14-11-2022_PGM_BAL_542052.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvCLE_16-11-2022_PGM_BAL_167152.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvCLE_16-11-2022_PGM_BAL_275753.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MILvCLE_16-11-2022_PGM_BAL_420952.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 368.2734871280508,
+        "y_pixel": 576.1824212271973
+    },
+    {
+        "image_name": "MILvCLE_16-11-2022_PGM_BAL_515991.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1031.679037111334,
+        "y_pixel": 807.6097291321172
+    },
+    {
+        "image_name": "MINvDET_31-12-2022_PGM_BAL_150158.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 118.05282514209294,
+        "y_pixel": 740.8059701492538
+    },
+    {
+        "image_name": "MINvDET_31-12-2022_PGM_BAL_262191.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MINvDET_31-12-2022_PGM_BAL_404898.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MINvDET_31-12-2022_PGM_BAL_523586.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 447.8308258107656,
+        "y_pixel": 770.629076838032
+    },
+    {
+        "image_name": "MINvPHX_13-01-2023_PGM_BAL_151662.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 132.16783684386493,
+        "y_pixel": 712.1757877280265
+    },
+    {
+        "image_name": "MINvPHX_13-01-2023_PGM_BAL_243753.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MINvPHX_13-01-2023_PGM_BAL_413382.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "MINvPHX_13-01-2023_PGM_BAL_525670.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1062.4754262788365,
+        "y_pixel": 713.3687119955777
+    },
+    {
+        "image_name": "NOPvHOU_12-11-2022_PGM_BAL_148449.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NOPvHOU_12-11-2022_PGM_BAL_244796.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 731.4142427281845,
+        "y_pixel": 672.8092868988392
+    },
+    {
+        "image_name": "NOPvHOU_12-11-2022_PGM_BAL_408370.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1107.386827148111,
+        "y_pixel": 761.085682697623
+    },
+    {
+        "image_name": "NOPvHOU_12-11-2022_PGM_BAL_506669.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NYKvORL_24-10-2022_PGM_MSG_149109.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 14.115011701771984,
+        "y_pixel": 668.0375898286345
+    },
+    {
+        "image_name": "NYKvORL_24-10-2022_PGM_MSG_271090.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NYKvORL_24-10-2022_PGM_MSG_425671.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NYKvORL_24-10-2022_PGM_MSG_523230.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1280.6165162153125,
+        "y_pixel": 1028.3007186290768
+    },
+    {
+        "image_name": "NYKvPHI_25-12-2022_PGM_ESP_139171.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 305.3975259110665,
+        "y_pixel": 700.2465450525152
+    },
+    {
+        "image_name": "NYKvPHI_25-12-2022_PGM_ESP_260953.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NYKvPHI_25-12-2022_PGM_ESP_421482.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "NYKvPHI_25-12-2022_PGM_ESP_532706.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 564.6004680708793,
+        "y_pixel": 804.0309563294638
+    },
+    {
+        "image_name": "OKCvTOR_11-11-2022_PGM_BAL_145714.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "OKCvTOR_11-11-2022_PGM_BAL_238998.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1106.1036442661316,
+        "y_pixel": 911.3941404090658
+    },
+    {
+        "image_name": "OKCvTOR_11-11-2022_PGM_BAL_407089.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "OKCvTOR_11-11-2022_PGM_BAL_510718.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ORLvCHA_14-11-2022_PGM_BAL_427029.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1262.6519558676027,
+        "y_pixel": 848.1691542288557
+    },
+    {
+        "image_name": "ORLvPHX_11-11-2022_PGM_BAL_149125.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ORLvPHX_11-11-2022_PGM_BAL_252951.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ORLvPHX_11-11-2022_PGM_BAL_394378.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "ORLvPHX_11-11-2022_PGM_BAL_491097.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 399.06987629555334,
+        "y_pixel": 768.2432283029298
+    },
+    {
+        "image_name": "PHIvATL_12-11-2022_PGM_NBC_150010.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PHIvATL_12-11-2022_PGM_NBC_274858.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 839.2016048144434,
+        "y_pixel": 944.7960199004975
+    },
+    {
+        "image_name": "PHIvATL_12-11-2022_PGM_NBC_435650.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PHIvATL_12-11-2022_PGM_NBC_554458.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 839.2016048144434,
+        "y_pixel": 688.3173023770039
+    },
+    {
+        "image_name": "PHIvUTA_13-11-2022_PGM_NBC_147594.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 508.14042126379144,
+        "y_pixel": 665.6517412935323
+    },
+    {
+        "image_name": "PHIvUTA_13-11-2022_PGM_NBC_230880.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 306.6807087930458,
+        "y_pixel": 671.6163626312881
+    },
+    {
+        "image_name": "PHIvUTA_13-11-2022_PGM_NBC_411164.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PHIvUTA_13-11-2022_PGM_NBC_513910.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1297.2978936810432,
+        "y_pixel": 928.0950801547816
+    },
+    {
+        "image_name": "PHXvDAL_19-10-2022_PGM_ESP_146375.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 528.6713473754597,
+        "y_pixel": 573.7965726920951
+    },
+    {
+        "image_name": "PHXvDAL_19-10-2022_PGM_ESP_256705.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1058.6258776328987,
+        "y_pixel": 736.0342730790492
+    },
+    {
+        "image_name": "PHXvDAL_19-10-2022_PGM_ESP_431022.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 227.123370110331,
+        "y_pixel": 653.7224986180211
+    },
+    {
+        "image_name": "PHXvDAL_19-10-2022_PGM_ESP_555958.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1243.4042126379136,
+        "y_pixel": 924.5163073521283
+    },
+    {
+        "image_name": "PHXvNYK_20-11-2022_PGM_BAL_145747.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PHXvNYK_20-11-2022_PGM_BAL_245559.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 130.88465396188565,
+        "y_pixel": 578.5682697622996
+    },
+    {
+        "image_name": "PHXvNYK_20-11-2022_PGM_BAL_400457.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 708.3169508525576,
+        "y_pixel": 551.1310116086236
+    },
+    {
+        "image_name": "PHXvNYK_20-11-2022_PGM_BAL_490498.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 981.6349047141425,
+        "y_pixel": 674.0022111663903
+    },
+    {
+        "image_name": "PORvBKN_17-11-2022_PGM_ROO_163296.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PORvBKN_17-11-2022_PGM_ROO_258618.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 773.7592778335005,
+        "y_pixel": 782.5583195135434
+    },
+    {
+        "image_name": "PORvBKN_17-11-2022_PGM_ROO_410034.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 265.6188565697091,
+        "y_pixel": 694.2819237147595
+    },
+    {
+        "image_name": "PORvBKN_17-11-2022_PGM_ROO_522496.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PORvCHA_26-12-2022_PGM_ROO_231717.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PORvCHA_26-12-2022_PGM_ROO_249009.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 867.4316282179873,
+        "y_pixel": 806.4168048645661
+    },
+    {
+        "image_name": "PORvCHA_26-12-2022_PGM_ROO_425439.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 156.54831160147108,
+        "y_pixel": 744.3847429519071
+    },
+    {
+        "image_name": "PORvCHA_26-12-2022_PGM_ROO_524293.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 887.9625543296556,
+        "y_pixel": 802.8380320619127
+    },
+    {
+        "image_name": "PORvDEN_24-10-2022_PGM_ALT_150044.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 254.07021063189572,
+        "y_pixel": 681.1597567716971
+    },
+    {
+        "image_name": "PORvDEN_24-10-2022_PGM_ALT_248724.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 125.75192243396857,
+        "y_pixel": 752.7352128247651
+    },
+    {
+        "image_name": "PORvDEN_24-10-2022_PGM_ALT_405116.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "PORvDEN_24-10-2022_PGM_ALT_516108.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 377.25576730190573,
+        "y_pixel": 675.1951354339415
+    },
+    {
+        "image_name": "SACvGSW_13-11-2022_PGM_NBC_144941.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "SACvGSW_13-11-2022_PGM_NBC_261202.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "SACvGSW_13-11-2022_PGM_NBC_403022.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 517.1227014376462,
+        "y_pixel": 533.2371475953565
+    },
+    {
+        "image_name": "SACvGSW_13-11-2022_PGM_NBC_535398.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1148.4486793714477,
+        "y_pixel": 1006.8280818131564
+    },
+    {
+        "image_name": "SASvCHA_19-10-2022_PGM_BAL_154055.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 75.707790036777,
+        "y_pixel": 672.8092868988392
+    },
+    {
+        "image_name": "SASvCHA_19-10-2022_PGM_BAL_254464.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 830.2193246405884,
+        "y_pixel": 596.4621337755666
+    },
+    {
+        "image_name": "SASvCHA_19-10-2022_PGM_BAL_404968.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "SASvCHA_19-10-2022_PGM_BAL_515706.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "SASvMIL_11-11-2022_PGM_BAL_150077.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 749.3788030758943,
+        "y_pixel": 632.2498618021006
+    },
+    {
+        "image_name": "SASvMIL_11-11-2022_PGM_BAL_249337.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "SASvMIL_11-11-2022_PGM_BAL_420457.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 20.530926111668336,
+        "y_pixel": 806.4168048645661
+    },
+    {
+        "image_name": "SASvMIL_11-11-2022_PGM_BAL_527837.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 757.07790036777,
+        "y_pixel": 802.8380320619127
+    },
+    {
+        "image_name": "TORvMIA_16-11-2022_PGM_TSN_146970.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 78.27415580073554,
+        "y_pixel": 608.3913764510779
+    },
+    {
+        "image_name": "TORvMIA_16-11-2022_PGM_TSN_245527.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 254.07021063189572,
+        "y_pixel": 724.105030403538
+    },
+    {
+        "image_name": "TORvMIA_16-11-2022_PGM_TSN_404847.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "TORvMIA_16-11-2022_PGM_TSN_519082.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "UTAvNYK_15-11-2022_PGM_ATT_144422.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 461.9458375125376,
+        "y_pixel": 516.5362078496406
+    },
+    {
+        "image_name": "UTAvNYK_15-11-2022_PGM_ATT_243275.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "UTAvNYK_15-11-2022_PGM_ATT_410345.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "UTAvNYK_15-11-2022_PGM_ATT_514142.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 372.1230357739886,
+        "y_pixel": 639.4074074074074
+    },
+    {
+        "image_name": "UTAvPHX_18-11-2022_PGM_ATT_145806.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 273.3179538615847,
+        "y_pixel": 854.1337755666113
+    },
+    {
+        "image_name": "UTAvPHX_18-11-2022_PGM_ATT_262106.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 1013.7144767636241,
+        "y_pixel": 924.5163073521283
+    },
+    {
+        "image_name": "UTAvPHX_18-11-2022_PGM_ATT_417816.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "UTAvPHX_18-11-2022_PGM_ATT_530781.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvBKN_12-12-2022_PGM_NBC_150918.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": 949.5553326646607,
+        "y_pixel": 744.3847429519071
+    },
+    {
+        "image_name": "WASvBKN_12-12-2022_PGM_NBC_284048.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvBKN_12-12-2022_PGM_NBC_407921.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvBKN_12-12-2022_PGM_NBC_505248.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvUTA_12-11-2022_PGM_NBC_165123.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvUTA_12-11-2022_PGM_NBC_262538.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvUTA_12-11-2022_PGM_NBC_384055.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    },
+    {
+        "image_name": "WASvUTA_12-11-2022_PGM_NBC_499409.jpg",
+        "landmark_name": "pnt_bl_ftline_at_laneline_ii",
+        "x_pixel": null,
+        "y_pixel": null
+    }
+]
