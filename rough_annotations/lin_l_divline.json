@@ -1,0 +1,36 @@
+[
+    {
+        "image_name": "CHAvIND_16-11-2022_PGM_BAL_522257.jpg",
+        "curve_name": "lin_l_divline",
+        "curve_observations": [
+            {
+                "x_pixel": 1606.0,
+                "y_pixel": 602.0
+            },
+            {
+                "x_pixel": 1607.0,
+                "y_pixel": 575.0
+            },
+            {
+                "x_pixel": 1615.0,
+                "y_pixel": 501.0
+            },
+            {
+                "x_pixel": 1619.0,
+                "y_pixel": 445.0
+            },
+            {
+                "x_pixel": 1590.0,
+                "y_pixel": 827.0
+            },
+            {
+                "x_pixel": 1585.0,
+                "y_pixel": 896.0
+            },
+            {
+                "x_pixel": 1589.0,
+                "y_pixel": 862.0
+            }
+        ]
+    }
+]
