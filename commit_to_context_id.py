@@ -3,11 +3,13 @@ from pathlib import Path
 from print_image_in_iterm2 import print_image_in_iterm2
 import pprint as pp
 import better_json as bj
+from colorama import Fore, Style
 source_id_to_context_id = {
     "ATLvBOS_16-11-2022_PGM_ESP": "22-23_ATL_CORE",
     "ATLvSAC_23-11-2022_PGM_BAL": "22-23_ATL_CITY",
     "BKNvMEM_20-11-2022_PGM_YES": "22-23_BKN_CITY",
     "BKNvTOR_21-10-2022_PGM_YES": "22-23_BKN_CORE",
+    "BKNvSAS_02-01-2023_PGM_YES": "22-23_BKN_CLAS", # fixed
     "BOSvDAL_23-11-2022_PGM_ESP": "22-23_BOS_CORE",
     "BOSvMIA_23-05-2022_PGM_ESP": "21-22_BOS_CORE",
     "CHAvBKN_31-12-2022_PGM_BAL": "22-23_CHA_STMT",
@@ -80,6 +82,7 @@ for source_id, c in source_id_to_context_id.items():
 assert num_matches == 1, f"ERROR: context_id {context_id} matches {num_matches} source videos?"
 
 source_id = match
+print(f"{Fore.GREEN}export_global source_id {source_id}{Style.RESET_ALL}")
 
 solved_cameras_dir = Path(
     "~/input_and_output/"
